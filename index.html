@@ -1,11 +1,14 @@
+<link rel="stylesheet" href="/assets/css/main.css">
 <ul>
   {% for post in site.posts %}
-    <li>
+    <article>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.feature_img != "" %}
       <img src="{{ post.feature_img }}" />
       {% endif %}
-      {{ post.content | strip_html | truncatewords: 50 }}
-    </li>
+      <p>
+            {{ post.content | markdownify | strip_html | truncatewords: 50 }}
+      </p>
+    </article>
   {% endfor %}
 </ul>
