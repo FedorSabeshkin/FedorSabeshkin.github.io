@@ -5,7 +5,9 @@
       {% if post.feature_img != "" %}
       <img src="{{ post.feature_img }}" />
       {% endif %}
-
+      <p>
+            {{ post.content | markdownify | strip_html | truncatewords: 50 }}
+      </p>
     </article>
   {% endfor %}
 </ul>
