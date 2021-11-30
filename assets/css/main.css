@@ -1,3 +1,7 @@
 p{
     font-size: 23px;
 }
+
+#main_content > ul > li {
+    font-size: 23px;
+}
