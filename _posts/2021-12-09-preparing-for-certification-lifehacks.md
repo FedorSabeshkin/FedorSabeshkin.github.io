@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Мои лайфхаки по подготовке к сертификации, на примере OCP Java 11"
-feature_img: /assets/images/2021/December/...
+feature_img: /assets/images/2021/Decamber/2021-12-09-preparing-for-certification-lifehacks/prepare-certification.jpg
 ---
 
 Предупреждение: Конечно, методы описанные здесь применимы, и должны быть знакомы тем, кто готовился к экзаменам в школе, университете и других ситуациях требующих усваивания большого кол-ва теоретической информации. Я же буду рассматривать это на примере подготовки к 1z0-819 OCP: Java 11 Developer.
