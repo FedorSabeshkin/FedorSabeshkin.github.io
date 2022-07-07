@@ -1,4 +1,4 @@
 # Заметки разработчика ПО
-Блог переехал сюда: https://t.me/FedorSabeshkinBlog
+Блог переехал сюда: **[FedorSabeshkinBlog](https://t.me/FedorSabeshkinBlog)**
 
-Архивная версия: **[FedorSabeshkin.github.io](https://FedorSabeshkin.github.io)** 
+Архивная версия (больше не пополняется): **[FedorSabeshkin.github.io](https://FedorSabeshkin.github.io)** 
